@@ -42,6 +42,8 @@ These sorts of questions inform your entire labs experience. You made a few tech
    	A technical decision I made this week was deciding what type of inputs would be used for the advanced search bar. After collaborating ideas with team members, I decided to use a minimum to maximum input for the population and rental prices, a dropdown for the job industry, and choosing the number of bedrooms for a living situation. I made the decision by looking at different input options there were and seeing what best suited the needs of the search bar filters. I was able to get feedback from teammates to be able to get different perspectives of what might be better options as well (such as using a Step feature for the rental prices--where the user first needs to choose the number of bedrooms they’re wanting and then the price range).
 
 2. What are some of the risks given the decision you made?
+   	I think some of the risks or flaws in the decision I made was not looking at other apps to see what filters were being used. After implementing the search bar filters, our team was able to view the layout of Google Flights to see the entire picture of the advanced search setting as well as the results page, which is what we needed to create anyway. Without fully planning what we had in mind, the risk we took was the amount of time and releases it took in order to decide what we wanted to do. 
+
 3. What challenges do you foresee in using the architecture your team selected?
 
 ## Prompt 3 - Professional Development 
