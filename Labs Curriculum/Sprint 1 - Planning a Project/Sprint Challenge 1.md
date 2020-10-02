@@ -58,34 +58,34 @@ Add a link to your Linkedin in your sprint challenge submission document.
 
 ## Personal and Contact Information:
 
-- [ ]  First and last name are added to profile
-- [ ]  Created a [shortened, unique](https://www.linkedin.com/help/linkedin/answer/87/customizing-your-public-profile-url?lang=en) LinkedIn URL
-- [ ]  Profile picture is clear, shows my face (not a selfie), and is in front of a professional background
-- [ ]  Listed title, `i.e. iOS Developer`, below name with any keyword associations included.  **For example: “Data Scientist, with a passion for data visualizations and open-source code”**
-    - [ ]  Title **does not** pull from my current position (this is a LinkedIn default, must manually change), unless that position is relevant to the tech industry
+- [x]  First and last name are added to profile
+- [x]  Created a [shortened, unique](https://www.linkedin.com/help/linkedin/answer/87/customizing-your-public-profile-url?lang=en) LinkedIn URL
+- [x]  Profile picture is clear, shows my face (not a selfie), and is in front of a professional background
+- [x]  Listed title, `i.e. iOS Developer`, below name with any keyword associations included.  **For example: “Data Scientist, with a passion for data visualizations and open-source code”**
+    - [x]  Title **does not** pull from my current position (this is a LinkedIn default, must manually change), unless that position is relevant to the tech industry
 
 ## About Section
 
-- [ ]  Wrote a minimum of 3 sentences to describe my technical skills, background, interests, and passions. (Also feel free to include key professional accomplishments.)
+- [x]  Wrote a minimum of 3 sentences to describe my technical skills, background, interests, and passions. (Also feel free to include key professional accomplishments.)
 
 ## Experience Section
 
-- [ ]  Listed all, or at least the last 3-5 years of previous professional roles
-- [ ]  Included 2-4 power statements for each experience listed (okay to copy and paste from resume)
-    - [ ]  Power statements for each experience [are bulleted](https://www.linkedin.com/pulse/update-how-add-bullet-points-your-linkedin-profile-erin-dore-miller/), not in paragraph form.
-    - [ ]  Listed responsibilities in bullet point format (I **did not** leave in paragraph format). If you use Windows, hold down the ALT key and type 0149 on the keypad. Release the ALT key and the bullet point will appear. On a Mac, press Opt + 8 on the keyboard.
-    - [ ]  Started each bullet point with [an action verb](https://docs.google.com/document/d/1wZkDPBWtQZDGGdvStD61iRx_jOWVlIyyQl9UOYHtZgA/edit?usp=sharing) and **did not** re-use phrases such as:  `Assisted with...` `Worked on...` `Helped with...`  (`Solely responsible for...`)
-    - [ ]  Described past projects in past tense and current projects in present tense
-    - [ ]  Did not use pronouns such as: I, we, they, you, me, us
+- [x]  Listed all, or at least the last 3-5 years of previous professional roles
+- [x]  Included 2-4 power statements for each experience listed (okay to copy and paste from resume)
+    - [x]  Power statements for each experience [are bulleted](https://www.linkedin.com/pulse/update-how-add-bullet-points-your-linkedin-profile-erin-dore-miller/), not in paragraph form.
+    - [x]  Listed responsibilities in bullet point format (I **did not** leave in paragraph format). If you use Windows, hold down the ALT key and type 0149 on the keypad. Release the ALT key and the bullet point will appear. On a Mac, press Opt + 8 on the keyboard.
+    - [x]  Started each bullet point with [an action verb](https://docs.google.com/document/d/1wZkDPBWtQZDGGdvStD61iRx_jOWVlIyyQl9UOYHtZgA/edit?usp=sharing) and **did not** re-use phrases such as:  `Assisted with...` `Worked on...` `Helped with...`  (`Solely responsible for...`)
+    - [x]  Described past projects in past tense and current projects in present tense
+    - [x]  Did not use pronouns such as: I, we, they, you, me, us
 
 ## Education
 
-- [ ]  Listed all education and relevant certifications: including name of the institution, degree type, and date the degree was received or will be received `i.e. May 2020` or `Expected July 2025`
-    - [ ]  I **did** link to Lambda School properly (Lambda logo saved)
+- [x]  Listed all education and relevant certifications: including name of the institution, degree type, and date the degree was received or will be received `i.e. May 2020` or `Expected July 2025`
+    - [x]  I **did** link to Lambda School properly (Lambda logo saved)
 
 ## Skills
 
-- [ ]  **Listed** all technical skills, methodologies, and platforms with strongest skills [pinned at the top of the list](https://www.linkedin.com/help/linkedin/answer/35265/display-order-of-skill-endorsements?lang=en)
+- [x]  **Listed** all technical skills, methodologies, and platforms with strongest skills [pinned at the top of the list](https://www.linkedin.com/help/linkedin/answer/35265/display-order-of-skill-endorsements?lang=en)
 
 With all the above checked off, go to LinkedIn's "Accomplishments" section to add a project. Articulating the tasks or project work you're doing publicly on a platform like LinkedIn can help you gain visibility! LinkedIn is designed to produce better results, recommendations, and engagement for users who have thorough profiles and who upload content. If you haven't done so already, write a few power statements as well as a project description to populate those content fields and describe your project on LinkedIn.
 
@@ -97,14 +97,16 @@ Here's the checklist you'll want to complete for projects:
 
 ## Projects (Under "Accomplishments")
 
-- [ ]  **Listed** title for Labs projects
-- [ ]  **Included one sentence** to describe what the project does
-    - [ ]  I **did not** use the phrase `This project was...` or `This project is...` in description
-    - [ ]  I **did not** use more than one sentence to describe the project
-- [ ]  **Listed** the tech stack used for each project (see below for example)
-- [ ]  **Listed 2-3 power statement bullets** highlighting my responsibilities on project
-- [ ]  **Did not** use the words "capstone" "Lambda Labs" or "School" project
+- [x]  **Listed** title for Labs projects
+- [x]  **Included one sentence** to describe what the project does
+    - [x]  I **did not** use the phrase `This project was...` or `This project is...` in description
+    - [x]  I **did not** use more than one sentence to describe the project
+- [x]  **Listed** the tech stack used for each project (see below for example)
+- [x]  **Listed 2-3 power statement bullets** highlighting my responsibilities on project
+- [x]  **Did not** use the words "capstone" "Lambda Labs" or "School" project
 
 ![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/18ad1d52-5679-4f4e-80bc-aa0341034f93/Untitled.png](https://tk-assets.lambdaschool.com/4f07d726-0a78-4014-82f4-dd56a02f21bc_Untitled2.png)
 
 ## [Sprint Challenge Rubric](https://www.notion.so/863354e030274baf99983cfee357d4d1)
+
+https://linkedin.com/in/berachele/
