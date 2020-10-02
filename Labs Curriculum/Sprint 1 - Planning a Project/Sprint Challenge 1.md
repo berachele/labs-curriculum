@@ -22,6 +22,8 @@ We took these questions and cooked them into your labs experience. Please answer
     As our team met for ideas with the second release of our app, we kept in mind the feedback that we had been given by our client, UX/UI designer, and peers. One piece of advice we were given was to look at similar apps to see their design and implement it on our own. From that feedback, we were able to update our Trello board on what more features we could add as user stories. “As a user, the main landing page incorporates the simple design by having the search bar be part of the main content.” “As a user, when I do an advanced search, another page will show with the filters on the top and the results of cities and main metrics as a list below.”
 
 2. Choose a user story. Describe your **reasoning** as you broke down that particular user story into individual tasks.
+   	“As a user, I can do an advanced search to filter my criteria as a priority.” Breaking down this task, we knew that it would be coming strongly from the web developer’s side. Since web was already pulling data from our current database, we are able to continue working with the frontend to implement the advanced search and focus on the structure of the component until Data Science is able to update their data table to fit that requirement. Our first tasks included: creating the form for the advanced search, researching other comparison filters in advanced searches, planning with the team what we want to implement, then executing that plan by creating a new component route to a new page with the advanced search and results page.
+
 3. How long do you think the above user story will take to complete? Explain your reasoning.
 
 ## Prompt 2 - Communicating Technical Decisions
