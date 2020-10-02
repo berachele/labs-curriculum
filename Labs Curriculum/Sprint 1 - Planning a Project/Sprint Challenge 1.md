@@ -45,6 +45,8 @@ These sorts of questions inform your entire labs experience. You made a few tech
    	I think some of the risks or flaws in the decision I made was not looking at other apps to see what filters were being used. After implementing the search bar filters, our team was able to view the layout of Google Flights to see the entire picture of the advanced search setting as well as the results page, which is what we needed to create anyway. Without fully planning what we had in mind, the risk we took was the amount of time and releases it took in order to decide what we wanted to do. 
 
 3. What challenges do you foresee in using the architecture your team selected?
+   As far as the architecture that we have now set up, some challenges that I see is the amount of time and efficiency it will take if we do not better communicate possibilities and plan the qualifications needed for Release 2. If we make one decision, implement it, then change our minds, that is a good time out our day, especially when there is a deadline for this project. That time could’ve been used researching and planning, then communicating as a team a decision to see what needed to be done (and done right) the first time. There are always going to be different directions taken when building an app, especially when receiving feedback, but we can better utilize our time to make our work more efficient.
+
 
 ## Prompt 3 - Professional Development 
 
