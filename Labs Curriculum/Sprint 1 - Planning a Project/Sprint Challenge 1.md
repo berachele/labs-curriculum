@@ -25,6 +25,7 @@ We took these questions and cooked them into your labs experience. Please answer
    	“As a user, I can do an advanced search to filter my criteria as a priority.” Breaking down this task, we knew that it would be coming strongly from the web developer’s side. Since web was already pulling data from our current database, we are able to continue working with the frontend to implement the advanced search and focus on the structure of the component until Data Science is able to update their data table to fit that requirement. Our first tasks included: creating the form for the advanced search, researching other comparison filters in advanced searches, planning with the team what we want to implement, then executing that plan by creating a new component route to a new page with the advanced search and results page.
 
 3. How long do you think the above user story will take to complete? Explain your reasoning.
+   	I think that within this certain criteria, this will probably take about 5 business days to implement. I believe that the planning will take at least one day for our team to come to a general consensus, but when our team gets to build this component, we’ll hit the ground running. I think the main chunk of building the component, form of inputs, and implementing any logic that we have will take a span of two days. The remaining three are for cleaning up our code, styling, adding tests, connecting our queries with the updated database, and--of course--debugging any unforeseen setbacks. 
 
 ## Prompt 2 - Communicating Technical Decisions
 
