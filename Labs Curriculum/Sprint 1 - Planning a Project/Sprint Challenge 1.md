@@ -19,6 +19,8 @@ We took these questions and cooked them into your labs experience. Please answer
 ### Questions you need to answer
 
 1. Describe your **process** of breaking a release into user stories.
+    As our team met for ideas with the second release of our app, we kept in mind the feedback that we had been given by our client, UX/UI designer, and peers. One piece of advice we were given was to look at similar apps to see their design and implement it on our own. From that feedback, we were able to update our Trello board on what more features we could add as user stories. “As a user, the main landing page incorporates the simple design by having the search bar be part of the main content.” “As a user, when I do an advanced search, another page will show with the filters on the top and the results of cities and main metrics as a list below.”
+
 2. Choose a user story. Describe your **reasoning** as you broke down that particular user story into individual tasks.
 3. How long do you think the above user story will take to complete? Explain your reasoning.
 
